@@ -21,10 +21,10 @@
 #define SMTP_Port 465
 
 
-#define sender_email "iotdatainfo@gmail.com"
-#define sender_password "@Emma080250"
+#define sender_email "use_your_email@email.com"
+#define sender_password "your paasword"
 
-#define Recipient_email "emmiphy@gmail.com"
+#define Recipient_email "receipient@gmail.com"
 
 
 SMTPSession smtp;
